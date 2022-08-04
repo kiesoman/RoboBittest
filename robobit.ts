@@ -200,7 +200,7 @@ enum RBColors
  */
 //% weight=50 color=#e7660b icon="\uf1ba"
 //% groups='["New style blocks","Basic","Advanced","Special","Ultrasonic","Line Sensor","5x5 Matrix","BitFace","OLED 128x64","Old style blocks"]'
-namespace robobit
+namespace jeffrobobit
 {
     let ledBar: fireled.Band;
     let _updateMode = RBMode.Auto;
